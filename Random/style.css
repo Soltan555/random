@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.txt {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    border: 5px solid blue;
+    border-radius: 50%;
+    outline: none;
+    font-size: 30px;
+}
+
+.twos {
+    text-align: center;
+    margin-top: 210px;
+}
+
+#btn {
+    font-size: 18px;
+    margin-top: 15px;
+    padding: 9px 40px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    outline: none;
+}
